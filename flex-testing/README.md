@@ -1,0 +1,1 @@
+using the flex in css to make something random, didnt really know the basics of flex just trying to make the vertical columns stretch. Decided that it might be better to ust use horizontal boxes. Need to practice basics of the horizontal ones more like moving an item in the flex containers.
