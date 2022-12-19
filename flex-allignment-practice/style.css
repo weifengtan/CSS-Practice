@@ -1,0 +1,32 @@
+.container {
+    border: 4px solid orange;
+    background-color: peachpuff;
+    display: flex;
+    height: 400px; 
+}
+
+body {
+    background-color: peachpuff;
+}
+
+.container > div {
+    height: 40px;
+    color: peachpuff;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    border: 4px solid orange;
+    flex: 1; 
+}
+
+.home {
+    background-color: lightblue;
+}
+
+.search {
+    background-color: lightgoldenrodyellow;
+}
+
+.logout {
+    background-color: lightsalmon;
+}
