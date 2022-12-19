@@ -6,6 +6,16 @@
     justify-content: space-between;
 }
 
+.gap-container {
+    border: 4px solid purple;
+    display: flex; 
+    height: 100px;
+    background-color: violet;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
 html,body {
     background-color: peachpuff;
     box-sizing: border-box;
@@ -14,6 +24,13 @@ html,body {
 
 body {
     margin: 0;
+}
+
+.item {
+    height: 40px;
+    background-color: lightblue;
+    border: 4px solid darkblue;
+    flex: 1; 
 }
 
 .container > div {
